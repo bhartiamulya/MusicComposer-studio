@@ -91,7 +91,7 @@ The app will be available at:
 
 5. **Export**: Click "Export" to merge and download your final mix
 
-## 🏗 Project Structure
+##  Project Structure
 
 ```
 ai-music-composer/
